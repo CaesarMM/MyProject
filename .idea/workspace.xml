@@ -6,8 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62215848-6761-4864-bd13-b796d45e0e0d" name="Default Changelist" comment="">
+    <list default="true" id="62215848-6761-4864-bd13-b796d45e0e0d" name="Default Changelist" comment="我的第一个Idea WEb项目De第er次修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +235,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623467478473</updated>
       <workItem from="1623467481343" duration="8216000" />
-      <workItem from="1623488107100" duration="483000" />
+      <workItem from="1623488107100" duration="1179000" />
     </task>
     <task id="LOCAL-00001" summary="我的第一个Idea WEb项目">
       <created>1623483661655</created>
@@ -250,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623486893805</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="我的第一个Idea WEb项目De第一次修改">
+      <created>1623488790510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623488790510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,10 +282,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" width="1099" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1623468966502" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1623488780109">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1623489295240">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1623488780109" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1623489295240" />
+    <state x="121" y="57" key="DiffContextDialog" timestamp="1623488911235">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="57" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1623488911235" />
     <state x="553" y="97" key="FileChooserDialogImpl" timestamp="1623486839533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -334,10 +346,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1623482753283" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1623486988403">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1623489262221">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1623486988403" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1623489262221" />
     <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1623488116389">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
